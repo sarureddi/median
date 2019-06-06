@@ -1,4 +1,4 @@
-num=int(input("enter the value"))
+num=[1,2,3,4,5]
 num.sort()
 length=len(num)
 if(length%2==0):
